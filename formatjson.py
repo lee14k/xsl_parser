@@ -250,6 +250,15 @@ for idx in indices:
     }
     products.append(product)
 
-# Print the transformed structure
-import json
-print(json.dumps(products, indent=2))
+# Print the transformed structure without quotes around keys
+print("[")
+for product in products:
+    print("  {")
+    print(f"    title: '{product['title']}',")
+    print(f"    description: '{product['description']}',")
+    print(f"    color: '{product['color']}',")
+    print(f"     className:'griditem',")
+    print(f"    lightRequirement: '{product['lightRequirement']}'")
+
+    print("  },")
+print("]")
