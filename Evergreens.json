@@ -1,0 +1,14 @@
+[
+  {
+    type: "Evergreens",
+    title: "Pine, White",
+    description: "Soft, bluish-green needles large specimen tree.",
+    className: "griditem"
+  },
+  {
+    type: "Evergreens",
+    title: "Spruce, Norway",
+    description: "Pyramidal shape and drooping branches, specimen tree.",
+    className: "griditem"
+  }
+]

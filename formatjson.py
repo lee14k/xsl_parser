@@ -1,5 +1,163 @@
 # Original data
-data = {"PRODUCT TYPE":{"0":"Flowering Shrubs","1":"Flowering Shrubs","2":"Flowering Shrubs","3":"Ornamental\/Shade Trees","4":"Fruit Trees","5":"Fruit Trees","6":"Fruit Trees","7":"Fruit Trees","8":"Fruit Trees","9":"Fruit Trees","10":"Fruit Trees","11":"Fruit Trees","12":"Fruit Trees","13":"Fruit Trees","14":"Fruit Trees","15":"Fruit Trees","16":"Fruit Trees","17":"Fruit Trees","18":"Fruit Trees","19":"Fruit Trees","20":"Fruit Trees","21":"Fruit Trees","22":"Perennials","23":"Perennials","24":"Flowering Shrubs","25":"Flowering Shrubs","26":"Flowering Shrubs","27":"Flowering Shrubs","28":"Flowering Shrubs","29":"Perennials","30":"Ornamental\/Shade Trees","31":"Perennials","32":"Flowering Shrubs","33":"Flowering Shrubs","34":"Flowering Shrubs","35":"Flowering Shrubs","36":"Flowering Shrubs","37":"Perennials","38":"Fruit Trees","39":"Fruit Trees","40":"Ornamental\/Shade Trees","41":"Ornamental\/Shade Trees","42":"Flowering Shrubs","43":"Perennials","44":"Perennials","45":"Perennials","46":"Perennials","47":"Perennials","48":"Perennials","49":"Perennials","50":"Perennials","51":"Ornamental\/Shade Trees","52":"Ornamental\/Shade Trees","53":"Perennials","54":"Perennials","55":"Flowering Shrubs","56":"Flowering Shrubs","57":"Flowering Shrubs","58":"Flowering Shrubs","59":"Perennials","60":"Perennials","61":"Perennials","62":"Small Fruits","63":"Flowering Shrubs","64":"Perennials","65":"Perennials","66":"Flowering Shrubs","67":"Perennials","68":"Perennials","69":"Flowering Shrubs","70":"Flowering Shrubs","71":"Flowering Shrubs","72":"Flowering Shrubs","73":"Flowering Shrubs","74":"Flowering Shrubs","75":"Flowering Shrubs","76":"Flowering Shrubs","77":"Ornamental\/Shade Trees","78":"Flowering Shrubs","79":"Ornamental\/Shade Trees","80":"Flowering Shrubs","81":"Small Fruits","82":"Flowering Shrubs","83":"Ornamental\/Shade Trees","84":"Flowering Shrubs","85":"Ornamental\/Shade Trees","86":"Ornamental\/Shade Trees","87":"Ornamental\/Shade Trees","88":"Ornamental\/Shade Trees","89":"Ornamental\/Shade Trees","90":"Ornamental\/Shade Trees","91":"Ornamental\/Shade Trees","92":"Ornamental\/Shade Trees","93":"Flowering Shrubs","94":"Flowering Shrubs","95":"Flowering Shrubs","96":"Fruit Trees","97":"Fruit Trees","98":"Fruit Trees","99":"Perennials","100":"Perennials","101":"Perennials","102":"Perennials","103":"Perennials","104":"Perennials","105":"Perennials","106":"Evergreens","107":"Fruit Trees","108":"Fruit Trees","109":"Fruit Trees","110":"Flowering Shrubs","111":"Flowering Shrubs","112":"Ornamental\/Shade Trees","113":"Flowering Shrubs","114":"Perennials","115":"Perennials","116":"Perennials","117":"Perennials","118":"Ornamental\/Shade Trees","119":"Ornamental\/Shade Trees","120":"Evergreens","121":"Flowering Shrubs","122":"Flowering Shrubs","123":"Ornamental\/Shade Trees","124":"Perennials","125":"Ornamental\/Shade Trees","126":"Perennials","127":"Perennials","128":"Flowering Shrubs","129":"Flowering Shrubs","130":"Flowering Shrubs","131":"Flowering Shrubs","132":"Flowering Shrubs","133":"Flowering Shrubs","134":"Flowering Shrubs"},"PRODUCT NAME":{"0":"Almond, Pink Flowering","1":"Althea, Lil' Kim Red","2":"Althea, Magenta Chiffon","3":"Althea, Magenta Chiffon Tree","4":"Apple, Braeburn","5":"Apple, Cortland","6":"Apple, Empire","7":"Apple, Fuji","8":"Apple, Gala","9":"Apple, Granny Smith","10":"Apple, Honeycrisp","11":"Apple, Honeygold","12":"Apple, McIntosh","13":"Apple, Pink Lady","14":"Apple, Red Delicious","15":"Apple, State Fair","16":"Apple, Wealthy","17":"Apple, Wolf River","18":"Apple, Yellow Delicious","19":"Apple, Zestar","20":"Apricot, Chinese Mormon","21":"Apricot, Moorpark","22":"Astilbe, Dark Side of the Moon","23":"Astilbe, Visions In Red","24":"Azalea, Mandarin Lights","25":"Balloon Flower, Sentimental Blue","26":"Barberry, Rose Glow","27":"Barberry, Sunjoy Orange Pillar","28":"Barberry, Sunjoy Sequins","29":"Bellflower, Dickson's Gold","30":"Birch, Whitespire Clump","31":"Brunnera, Jack Frost","32":"Burning Bush, Dwarf","33":"Butterfly Bush, Lo & Behold Pink Micro Chip","34":"Butterfly Bush, Miss Violet","35":"Butterfly Bush, Royal Red","36":"Buttonbush, Sugar Shack","37":"Catmint, Junior Walker's Low","38":"Cherry, Montmorency","39":"Cherry, North Star","40":"Cherry, Pink Weeping (3' Graft)","41":"Cherry, Pink Weeping (6' Graft)","42":"Chokeberry, Low Scape Mound","43":"Clematis, Happy Jack Purple","44":"Clematis, Pink Mink","45":"Clematis, Sweet Summer Love","46":"Coneflower, Cheyenne Spirit","47":"Coneflower, Sombrero Adobe Orange","48":"Coralbells, Cherry Truffles","49":"Coralbells, Grape Expectations","50":"Coreopsis, Jethro Tull","51":"Crabapple, Coralburst","52":"Crabapple, Prairie Fire","53":"Dianthus, Black Cherry Frost","54":"Dianthus, Cranberry Cocktail","55":"Dogwood, Bailey's Red Twig","56":"Dogwood, Variegated","57":"Elderberry, Black Lace","58":"Elderberry, Lemony Lace","59":"False Sunflower, Bleeding Hearts","60":"False Sunflower, Tuscan Gold","61":"Fern, Ostrich","62":"Fig, Chicago Hardy","63":"Forsythia, Show Off","64":"Grass, Red Baron","65":"Grass, Totem Pole","66":"Honeysuckle, Goldflame","67":"Hosta, Blue Angel","68":"Hosta, Frances Williams","69":"Hydrangea, Annabelle","70":"Hydrangea, Climbing","71":"Hydrangea, Eclipse","72":"Hydrangea, Endless Summer","73":"Hydrangea, Endless Summer Bloomstruck","74":"Hydrangea, Endless Summer Summer Crush","75":"Hydrangea, Fire Light","76":"Hydrangea, Limelight Prime","77":"Hydrangea, Little Lime Tree","78":"Hydrangea, Pinky Winky","79":"Hydrangea, Pinky Winky Tree","80":"Hydrangea, Quick Fire Fab","81":"Kiwi, Issai","82":"Lilac, Bloomerang Dark Purple","83":"Lilac, Bloomerang Dark Purple Tree","84":"Lilac, Bloomerang Purpink","85":"Maple, Autumn Blaze","86":"Maple, Crimson King","87":"Maple, Green Mountain Sugar","88":"Maple, October Glory","89":"Maple, Red","90":"Maple, Silver","91":"Mountain Ash, Cardinal Royal","92":"Ninebark, Diabolo Tree","93":"Ninebark, Ginger Wine","94":"Ninebark, Summer Wine Black","95":"Ninebark, Tiny Wine","96":"Peach, Contender","97":"Pear, Bartlett","98":"Pear, Summercrisp","99":"Peony, Bartzella (Yellow)","100":"Peony, Cora Louise (White\/Lavender)","101":"Peony, Coral Charm (Coral)","102":"Peony, Sarah Bernhardt (Pink)","103":"Peony, Victoria de la Marne (Red)","104":"Phlox, Garden Cover Girl Purple","105":"Phlox, Garden Glamour Girl","106":"Pine, White","107":"Plum, Methley","108":"Plum, Stanley","109":"Plum, Toka","110":"Potentilla, Happy Face Pink Paradise","111":"Potentilla, Happy Face Yellow","112":"Redbud, Eastern Tree Form","113":"Rhododendron, PJM Elite","114":"Russian Sage","115":"Salvia, East Friesland","116":"Salvia, May Night","117":"Sedum, Frosted Fire","118":"Serviceberry, Autumn Brilliance (Tree)","119":"Smoketree, Royal Purple","120":"Spruce, Norway","121":"St. John's Wort, Gemo","122":"Summersweet, Ruby Spice","123":"Sycamore, American","124":"Trumpet Vine, Red","125":"Tulip Tree","126":"Veronica, Giles Van Hees Pink","127":"Veronica, Royal Candles","128":"Viburnum, Common Snowball","129":"Weigela, Midnight Sun","130":"Weigela, My Monet","131":"Weigela, Sonic Bloom Wine","132":"Weigela, Wine & Roses","133":"Willow, Dappled","134":"Witchhazel, Vernal"},"DESCRIPTION":{"0":"Double pink flowers in early spring.","1":"Carmine-red blooms.","2":"Magenta-purple powderpuff blooms.","3":"Magenta-purple powderpuff blooms; tree form.","4":"Medium to large fruits are green-striped with dark red.","5":"Bears heavy crops of large red-striped fruit with white flesh.","6":"Medium sized dark red, striped fruit.","7":"Medium sized fruits are reddish-green in color.","8":"Medium sized fruits have golden-yellow skin with reddish blush.","9":"Large, waxy, smooth green skin with small white lenticels.","10":"Very large fruits are scarlet-red over a yellow background.","11":"Golden with red blush, very sweet.","12":"Medium to large, nearly round fruit with bright red skin.","13":"Attractive pink blush over a yellow undertone.","14":"Medium to large with red to striped skin.","15":"Medium-sized fruit striped with reddish-orange over a yellow background.","16":"Large red-skinned fruit with white pink-veined flesh.","17":"Pale yellow skin with a dull red blush on enormous fruit.","18":"Large with clear yellow skin, similar in shape to 'Red Delicious'.","19":"Mostly red, crisp, with sweet and tart taste.","20":"Medium sized fruit with yellow to medium orange color and a red blush.","21":"Juicy, sweet fruit. Good for fresh eating, drying or canning.","22":"Dark Chocolate-burgundy foliage, rosy purple flowers.","23":"Deep red buds open to pinkish-red flowers on full plumes.","24":"Orange flowers.","25":"Balloon-shaped buds that open to saucer-like blue flowers.","26":"New foliage is pink with splash of cream 4' height.","27":"Vivid orange foliage, narrow growth habit.","28":"Colorful new growth variegation of white, pink and mint green.","29":"Golden-yellow foliage. Blue flowers.","30":"Borer resistant white birch with a pyramidal growth habit.","31":"Dark green foliage heavily frosted with silver.","32":"Rounded plant with purple-red fall color and corky bark.","33":"Dwarf form with orchid pink blooms.","34":"Violet flower.","35":"Purple red flowers.","36":"Red fruit, glossy red tip foliage native.","37":"Compact 15-18in plants, blue flowers May thru September.","38":"Fruit is large with brilliant red skin and firm yellow flesh.","39":"A genetic dwarf, excellent for the home garden.","40":"Showy double pink flowers, low-grafted at about 3'.","41":"Showy double pink flowers, high-grafted at about 6'.","42":"Stays 2' tall and wide with black fruit.","43":"Purple flower with yellow stamens.","44":"Pink flower, rebloomer.","45":"Cranberry violet flower.","46":"Shades of orange, red, & yellow.","47":"2.5-3in intense orange flowers.","48":"Heavily ruffled rich mahogany red foliage.","49":"Grape foliage with purple veins.","50":"Yellow flowers.","51":"Coral-pink buds open to double pink flowers.","52":"Single pink\/red flowers.","53":"Semi-double red flowers with white edges.","54":"Hot pink flower.","55":"Bright red stems, white flowers, blue berries.","56":"Variegated foliage with bright red winter branches.","57":"Lacy purple black foliage.","58":"Bright yellow foliage.","59":"Upright bronze\/green foliage with orange flowers and red centers.","60":"Sunny yellow flowers, compact upright habit.","61":"Vase shaped 3-5' tall lush green fronds.","62":"Hardy, self-pollinating, fruits are purple-brown in color.","63":"Abundant large golden flowers.","64":"Upright blades turn cranberry red in summer. Can only sell in Michigan.","65":"Upright narrow habit. 2.5' wide x 6' tall.","66":"Pink buds to yellow flowers.","67":"Grows 4' tall by 4' wide with large blue\/green leaves.","68":"Golden yellow edge with green center.","69":"Large white blooms.","70":"Produces white flowers in late June to early July with a slight fragrance.","71":"Deep purple foliage with red flowers. Mophead","72":"Blue mophead flower.","73":"Pink\/blue mophead flower.","74":"Big raspberry red or neon purple blooms. Mophead","75":"White flowers that finish rich red.","76":"Lime green flowers. Improved Limelight.","77":"Flowers open soft green and fade to pink\/burgundy; tree form.","78":"Two toned flower heads white\/pink.","79":"Two toned flower heads white\/pink; tree form.","80":"Early blooming paniculata, large blooms.","81":"Self-fertile produces smooth kiwi fruit in fall.","82":"Reblooming dark purple flowers.","83":"Reblooming dark purple flowers; tree form.","84":"Rebloomer with pink to purple flowers. 3-5' tall.","85":"Great orange-red fall color.","86":"Dark red leaf color throughout the growing season.","87":"Range of yellow to red fall color, good heat tolerance.","88":"Fall color is brilliant orange or red.","89":"Foliage turns yellow to bright red in the fall.","90":"Foliage is bright green with yellowish fall color.","91":"Bright red fruits in August to September.","92":"Stunning deep purple foliage.","93":"Orange\/red to burgundy foliage.","94":"Very dark foliage, white flowers in spring; 5-6' tall and wide.","95":"Compact form with dark maroon foliage.","96":"Zone 4 hardiness.","97":"Medium to large yellow fruit with sweet and tender flesh.","98":"Medium-sized fruit with green skin and crisp sweet flesh.","99":"Intersectional peony with abundant double yellow flowers.","100":"Large semi-double white flowers with lavender centers.","101":"Early blooming semi double coral flowers.","102":"Pink flowers.","103":"Double red 3-6in flowers in late spring.","104":"Lavender purple flowers.","105":"Pink flowers.","106":"Soft, bluish-green needles large specimen tree.","107":"Small to medium fruit with reddish skin and red flesh.","108":"Large dark blue fruits with sweet, greenish-yellow, juicy flesh.","109":"Large red-skinned fruits with yellow flesh.","110":"Clear pink semi-double flowers.","111":"Extra-large, bright yellow flowers.","112":"Rosy-pink flowers appear on bare branches in spring.","113":"Lavender pink flower and slightly more compact than PJM.","114":"Gray-green foliage and 9-12in long clusters of violet-blue flowers.","115":"Violet flowers.","116":"Dark blue flowers.","117":"Variegated verson of Autumn Fire.","118":"Fall color is yellow to gold, sometimes orange to red.","119":"Velvety purple foliage all season long.","120":"Pyramidal shape and drooping branches, specimen tree.","121":"Yellow flowers in summer.","122":"Reddish pink flower in summer.","123":"Exfoliating tree bark provides unique winter interest.","124":"Vigorous vine with 2.5-3in long and 1.5in wide red flowers.","125":"Foliage is bright green in summer and turns yellow in fall.","126":"Bright pink flower spikes from mid-summer through late summer.","127":"Compact grower with masses of violet blue flowers.","128":"3in diameter clusters of white flowers.","129":"Dwarf with orange-red foliage.","130":"Pink\/white\/green variegated foliage.","131":"Rebloomer with dark foliage and pink flowers.","132":"Dark burgundy foliage with pink bloom.","133":"Foliage mottled in white, green and pink.","134":"Yellow to orange flowers in late winter to early spring."}}
+data = [
+  {
+    "type": "Fruit Trees",
+    "title": "Apple, Braeburn",
+    "description": "Medium to large fruits are green-striped with dark red.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Apple, Cortland",
+    "description": "Bears heavy crops of large red-striped fruit with white flesh.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Apple, Empire",
+    "description": "Medium sized dark red, striped fruit.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Apple, Fuji",
+    "description": "Medium sized fruits are reddish-green in color.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Apple, Gala",
+    "description": "Medium sized fruits have golden-yellow skin with reddish blush.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Apple, Granny Smith",
+    "description": "Large, waxy, smooth green skin with small white lenticels.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Apple, Honeycrisp",
+    "description": "Very large fruits are scarlet-red over a yellow background.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Apple, Honeygold",
+    "description": "Golden with red blush, very sweet.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Apple, McIntosh",
+    "description": "Medium to large, nearly round fruit with bright red skin.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Apple, Pink Lady",
+    "description": "Attractive pink blush over a yellow undertone.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Apple, Red Delicious",
+    "description": "Medium to large with red to striped skin.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Apple, State Fair",
+    "description": "Medium-sized fruit striped with reddish-orange over a yellow background.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Apple, Wealthy",
+    "description": "Large red-skinned fruit with white pink-veined flesh.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Apple, Wolf River",
+    "description": "Pale yellow skin with a dull red blush on enormous fruit.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Apple, Yellow Delicious",
+    "description": "Large with clear yellow skin, similar in shape to 'Red Delicious'.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Apple, Zestar",
+    "description": "Mostly red, crisp, with sweet and tart taste.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Apricot, Chinese Mormon",
+    "description": "Medium sized fruit with yellow to medium orange color and a red blush.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Apricot, Moorpark",
+    "description": "Juicy, sweet fruit. Good for fresh eating, drying or canning.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Cherry, Montmorency",
+    "description": "Fruit is large with brilliant red skin and firm yellow flesh.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Cherry, North Star",
+    "description": "A genetic dwarf, excellent for the home garden.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Peach, Contender",
+    "description": "Zone 4 hardiness.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Pear, Bartlett",
+    "description": "Medium to large yellow fruit with sweet and tender flesh.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Pear, Summercrisp",
+    "description": "Medium-sized fruit with green skin and crisp sweet flesh.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Plum, Methley",
+    "description": "Small to medium fruit with reddish skin and red flesh.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Plum, Stanley",
+    "description": "Large dark blue fruits with sweet, greenish-yellow, juicy flesh.",
+    "className": "griditem"
+  },
+  {
+    "type": "Fruit Trees",
+    "title": "Plum, Toka",
+    "description": "Large red-skinned fruits with yellow flesh.",
+    "className": "griditem"
+  }
+]
+
 
 # Initialize an empty list to hold the new structure
 products = []

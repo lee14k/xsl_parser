@@ -1,0 +1,134 @@
+[
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Althea, Magenta Chiffon Tree",
+    description: "Magenta-purple powderpuff blooms; tree form.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Birch, Whitespire Clump",
+    description: "Borer resistant white birch with a pyramidal growth habit.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Cherry, Pink Weeping (3' Graft)",
+    description: "Showy double pink flowers, low-grafted at about 3'.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Cherry, Pink Weeping (6' Graft)",
+    description: "Showy double pink flowers, high-grafted at about 6'.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Crabapple, Coralburst",
+    description: "Coral-pink buds open to double pink flowers.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Crabapple, Prairie Fire",
+    description: "Single pink/red flowers.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Hydrangea, Little Lime Tree",
+    description: "Flowers open soft green and fade to pink/burgundy; tree form.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Hydrangea, Pinky Winky Tree",
+    description: "Two toned flower heads white/pink; tree form.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Lilac, Bloomerang Dark Purple Tree",
+    description: "Reblooming dark purple flowers; tree form.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Maple, Autumn Blaze",
+    description: "Great orange-red fall color.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Maple, Crimson King",
+    description: "Dark red leaf color throughout the growing season.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Maple, Green Mountain Sugar",
+    description: "Range of yellow to red fall color, good heat tolerance.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Maple, October Glory",
+    description: "Fall color is brilliant orange or red.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Maple, Red",
+    description: "Foliage turns yellow to bright red in the fall.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Maple, Silver",
+    description: "Foliage is bright green with yellowish fall color.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Mountain Ash, Cardinal Royal",
+    description: "Bright red fruits in August to September.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Ninebark, Diabolo Tree",
+    description: "Stunning deep purple foliage.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Redbud, Eastern Tree Form",
+    description: "Rosy-pink flowers appear on bare branches in spring.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Serviceberry, Autumn Brilliance (Tree)",
+    description: "Fall color is yellow to gold, sometimes orange to red.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Smoketree, Royal Purple",
+    description: "Velvety purple foliage all season long.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Sycamore, American",
+    description: "Exfoliating tree bark provides unique winter interest.",
+    className: "griditem"
+  },
+  {
+    type: "Ornamental/Shade Trees",
+    title: "Tulip Tree",
+    description: "Foliage is bright green in summer and turns yellow in fall.",
+    className: "griditem"
+  }
+]
